@@ -7,6 +7,7 @@ import About from "./Components/About/About.jsx";
 import Campus from "./Components/Campus/Campus.jsx";
 import Testimonials from "./Components/Testimonials/Testimonials.jsx";
 import Contact from "./Components/Contact/Contact.jsx";
+import Fooder from "./Components/Fooder/Fooder.jsx";
 
 const App = () => {
     return (
@@ -23,6 +24,7 @@ const App = () => {
                 <Testimonials />
                 <Title subTitle={'Contact us'} title={'Get in Touch'}></Title>
                 <Contact />
+                <Fooder />
             </div>
 
         </div>
