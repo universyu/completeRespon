@@ -49,3 +49,12 @@
     display: block;
     margin: 20px 0;
 }
+
+@media  (max-width: 750px){
+    .contact{
+        display: block;
+    }
+    .contact-col{
+        padding: 20px;
+    }
+}

@@ -11,3 +11,16 @@
     display: inline-block;
     margin-left: 20px;
 }
+
+@media (max-width: 600px) {
+    .fooder{
+        display: block;
+        text-align: center;
+    }
+    .fooder ul li{
+        margin: 10px;
+    }
+    .fooder ul{
+        margin-top: 10px;
+    }
+}
