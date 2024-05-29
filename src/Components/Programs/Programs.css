@@ -41,7 +41,7 @@
     margin-bottom: 10px;
 }
 
-@media  (max-width: 650px){
+@media  (max-width: 800px){
     .programs{
         flex-direction: column;
     }
