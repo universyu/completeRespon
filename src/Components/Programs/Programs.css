@@ -27,7 +27,6 @@
     justify-content: center;
     flex-direction: column;
     color: #fff;
-    cursor: pointer;
     opacity: 0;
     padding-top: 70%;
     transition: 0.4s;
