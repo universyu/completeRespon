@@ -86,3 +86,32 @@
         font-size: 12px;
     }
 }
+@media (max-width: 380px){
+    .testimonials{
+        padding: 0 15px;
+    }
+    .next-btn, .back-btn{
+        padding: 5px;
+        width: 15px;
+    }
+    .testimonials ul li{
+        padding: 8px;
+    }
+    .slide{
+        padding: 8px;
+    }
+    .slide img{
+        width: 25px;
+        border: 1px solid #212EA0;
+    }
+    .user-info{
+        margin-bottom: 10px;
+        font-size: 12px;
+    }
+    .user-info h3{
+        font-size: 10px;
+    }
+    .slide p{
+        font-size:12px;
+    }
+}
