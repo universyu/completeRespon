@@ -1,8 +1,22 @@
-# React + Vite
+# 全响应式网站
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 访问网页 edusity.countingstars.cc
 
-Currently, two official plugins are available:
+## 使用屏幕大小较小的设备（比如手机）访问网页时，各组件会自适应大小
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 导航栏
+
+屏幕比较小的时候，导航栏大小会跟着变化，如果屏幕足够小（比如手机），那么导航栏会处于屏幕右侧，并在右上角显示隐藏按钮，按下就可隐藏导航栏，再次点击可以显示导航栏，下面是效果预览
+
+![屏幕截图 2024-05-29 124648](public/屏幕截图 2024-05-29 124648.png)
+
+## Campus的自适应
+
+照片从一行四张变成每行两张，下面是效果预览
+
+![屏幕截图 2024-05-29 125137](public/屏幕截图 2024-05-29 125137.png)
+
+## 其它组件
+
+其它组件也都做了大小自适应调整
+

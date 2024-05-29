@@ -86,7 +86,7 @@
         font-size: 12px;
     }
 }
-@media (max-width: 380px){
+@media (max-width: 500px){
     .testimonials{
         padding: 0 15px;
     }
